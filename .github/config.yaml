@@ -2,6 +2,9 @@ reviewers:
   enabled: true
   candidates:
     include:
+      - petia
+      - kolia
+      - valera
     exclude:
     size: 2
   slack:
