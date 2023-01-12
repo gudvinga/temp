@@ -1,2 +1,8 @@
 reviewers:
   enabled: true
+  candidates:
+    include:
+    exclude:
+    size: 2
+  slack:
+    - C04JW8S8M6U
