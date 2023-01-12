@@ -1,5 +1,2 @@
-bots:
-  reviewers:
-    - vasia
-    - petia
-    - kolia
+reviewers:
+  enabled: true
